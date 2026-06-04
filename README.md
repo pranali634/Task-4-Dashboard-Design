@@ -1,14 +1,14 @@
-# 📊 Amazon Sales Performance Dashboard
+# Amazon Sales Performance Dashboard
 ### Data Analyst Internship — Task 4: Dashboard Design 
 
 ---
 
-## 🎯 Objective
+## Objective
 Create meaningful visualizations using Power BI that convey a compelling business story from Amazon sales data (2020–2024).
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - **Power BI** — Dashboard creation and visual storytelling
 - **DAX** — Calculated measures and KPIs
 - **CSV Dataset** — Amazon Sales Data (2020–2024)
@@ -16,7 +16,7 @@ Create meaningful visualizations using Power BI that convey a compelling busines
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | File | Description |
 |------|-------------|
@@ -28,13 +28,13 @@ Create meaningful visualizations using Power BI that convey a compelling busines
 
 ---
 
-## 📌 Dataset
+## Dataset
 **Amazon Sales Data (2020–2024)**  
 Contains order-level data including revenue, profit, product category, payment methods, and geographic details.
 
 ---
 
-## 📈 Dashboard Story & Key Business Insights
+## Dashboard Story & Key Business Insights
 
 This dashboard tells the story of **Amazon's sales performance over 5 years**, helping business stakeholders quickly identify:
 
@@ -46,7 +46,7 @@ This dashboard tells the story of **Amazon's sales performance over 5 years**, h
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 - ✅ KPI Cards — Total Revenue, Net Profit, Total Orders, Profit Margin (%)
 - ✅ Line/Bar Charts — Sales trends over time
@@ -67,21 +67,35 @@ This dashboard tells the story of **Amazon's sales performance over 5 years**, h
 
 ---
 
-## 🧠 Design Principles Followed
+## Business Recommendations
+Based on the dashboard insights:
 
-- Chose the **right chart type** for each insight (bar for comparison, line for trends, donut for proportions)
-- Avoided clutter — clean layout with consistent color palette
-- Highlighted **key takeaways** using KPI cards at the top
-- Added **context** through titles and labels on every visual
-- Focused on **business insights**, not just aesthetics
-- Created a **summary view** as the main dashboard page
+1. **Regional Growth Focus**  
+   - Texas, California, and North Carolina are top contributors.  
+   - Expand localized marketing, faster delivery, and state-specific promotions.
 
+2. **Category Optimization**  
+   - Electronics & Sports dominate sales.  
+   - Bundle weaker categories (Books, Toys) with strong ones or run targeted discounts.
 
-## ⏱ Time Period Covered
+3. **Digital Payment Adoption**  
+   - Encourage UPI & Amazon Pay usage with cashback/loyalty rewards.  
+   - Reduce reliance on Cash on Delivery to improve efficiency.
+
+4. **Profit Margin Improvement**  
+   - Current margin is only 0.92%.  
+   - Optimize shipping, dynamic pricing, and discount strategies.
+
+5. **Seasonal Campaigns**  
+   - Leverage peak sales periods with festive promotions and inventory planning.
+
+---
+
+## Time Period Covered
 2020 – 2024
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Pranali Prakash Ranjane**  
 Data Analyst Internship — Elevate Labs
