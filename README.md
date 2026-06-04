@@ -71,6 +71,7 @@ This dashboard tells the story of **Amazon's sales performance over 5 years**, h
 ### Filters & Slicers
 ![Filters and Slicers](screenshots/Slicers.PNG)
 
+---
 
 ## 🧠 Design Principles Followed
 
